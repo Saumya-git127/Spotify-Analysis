@@ -241,10 +241,10 @@ Track skipping and shuffling vary by day and platform.
 
 YoY analysis shows increased diversity in listening behavior.
 
-# Snapshot of Dashboard 
+# Snapshot of Dashboards
 
 ![Image](https://github.com/user-attachments/assets/a8c5eb7d-d6ab-40e1-88e4-1fd777d4eba2)
 
-![Image](https://github.com/user-attachments/assets/61cb55db-7e6a-4cd3-a339-9774ea8e22ba)
+![Image](https://github.com/user-attachments/assets/14b9d6a1-26b7-4541-92d4-3b08b41cda7e)
 
 ![Image](https://github.com/user-attachments/assets/ab60c2b3-4be8-4b1f-a041-668fd4b4ea3f)
